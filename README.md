@@ -37,7 +37,8 @@ Find publicly available examples on trusted cybersecurity blogs or security awar
 - 📨 [Download Email Sample (.eml)](https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)  
   
 
-<img width="904" alt="image" src="https://github.com/user-attachments/assets/a06442b7-d3a8-4e30-b626-3fa7a4ea519a" />
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/a73ba6ce-6103-422e-841b-b75cef441179" />
+
 
 ## 2.Find your local IP range command;
 

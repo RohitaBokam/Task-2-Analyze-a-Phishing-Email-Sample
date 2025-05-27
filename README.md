@@ -16,9 +16,22 @@ In Online free tools
 **. Objective:** Identifying phishing characteristics in a suspicious email sample.
 **. Tools:** Email client or saved email file(text),free online header analyzer.
 
+## 🛠️ **Lab Setup**
+
+- 📨 [Download Email Sample (.eml)](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/blob/main/BRADESCO%20LIVELO.eml)  
+- 💻 Tools Recommended:
+  - [MX Toolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+  - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
+  - IP reputation check (e.g., VirusTotal, AbuseIPDB, Cisco Talos)
+  - Whois lookup (e.g., whois.domaintools.com)
+  - URL and Domain analysis (e.g., urlscan.io, VirusTotal)
+
+
 ## 1. Obtain a sample phishing email(many free samples online)
 
 Find publicly available examples on trusted cybersecurity blogs or security awareness sites.
+- 📨 [Download Email Sample (.eml)](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/blob/main/BRADESCO%20LIVELO.eml)  
+  
 
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/a06442b7-d3a8-4e30-b626-3fa7a4ea519a" />
 

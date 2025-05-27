@@ -40,13 +40,10 @@ Find publicly available examples on trusted cybersecurity blogs or security awar
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/a73ba6ce-6103-422e-841b-b75cef441179" />
 
 
-## 2.Find your local IP range command;
+## 2.Examine sender's email address for spoofing.
 
-> ip a
-> 
-> 
-> ifconfig
-> 
+Look for:
+*Minor misspellings(e.g.,support@paypa1.com instead of paypal.com).
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/adcf3f83-c1fb-4884-82fd-b3e69bf75f57" />
 

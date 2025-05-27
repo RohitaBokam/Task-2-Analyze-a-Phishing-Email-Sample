@@ -43,7 +43,7 @@ Find publicly available examples on trusted cybersecurity blogs or security awar
 ## 2.Examine sender's email address for spoofing.
 
 Look for:
-*Minor misspellings(e.g.,support@paypa1.com instead of paypal.com).
+*Minor misspellings(example:support@paypa1.com instead of paypal.com).
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/adcf3f83-c1fb-4884-82fd-b3e69bf75f57" />
 

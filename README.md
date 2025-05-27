@@ -18,12 +18,9 @@ In Online free tools
 
 ## 1. Obtain a sample phishing email(many free samples online)
 
-nmap is pre installed tool in kali for check run this command
+Find publicly available examples on trusted cybersecurity blogs or security awareness sites.
 
-> nmap -h
-> 
-
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/59e3ef0e-ad1f-4076-9c6d-53e29c0f71e4" />
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/a06442b7-d3a8-4e30-b626-3fa7a4ea519a" />
 
 ## 2.Find your local IP range command;
 

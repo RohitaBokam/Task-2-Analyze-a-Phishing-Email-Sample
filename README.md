@@ -18,7 +18,7 @@ In Online free tools
 
 ## 🛠️ **Lab Setup**
 
-- 📨 [Download Email Sample (.eml)](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/blob/main/BRADESCO%20LIVELO.eml)  
+- 📨 [Download Email Sample (.eml)] (https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)
 - 💻 Tools Recommended:
   - [MX Toolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
   - [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
@@ -34,7 +34,7 @@ You received an email from BANCO DO BRADESCO LIVELO claiming that your card has 
 ## 1. Obtain a sample phishing email(many free samples online)
 
 Find publicly available examples on trusted cybersecurity blogs or security awareness sites.
-- 📨 [Download Email Sample (.eml)](https://github.com/0xrajneesh/30-Days-SOC-Challenge-Beginner/blob/main/BRADESCO%20LIVELO.eml)  
+- 📨 [Download Email Sample (.eml)](https://github.com/RohitaBokam/Task-2-Analyze-a-Phishing-Email-Sample/blob/main/sample.eml)  
   
 
 <img width="904" alt="image" src="https://github.com/user-attachments/assets/a06442b7-d3a8-4e30-b626-3fa7a4ea519a" />

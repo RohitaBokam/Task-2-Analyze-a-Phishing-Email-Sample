@@ -8,19 +8,15 @@ In this project, you will learn how to analyze phishing emails, Phishing email a
 - Knowledge on how to use online header analyzer.
 
 
-
 ## Tasks
 In Online free tools
 
-# Task-2-Analyze-a-Phishing-Email-Sample
-## Tasks
-In kali linux terminal
-# Scan Your Local Network for Open Ports
-**. Objective:** Learn to discover open ports on devices in your local network to understand network exposure.
 
-**. Tools:** Nmap (free), Wireshark (optional)
+# Analyze a Phishing Email Sample
+**. Objective:** Identifying phishing characteristics in a suspicious email sample.
+**. Tools:** Email client or saved email file(text),free online header analyzer.
 
-## 1. Install Nmap from official website
+## 1. Obtain a sample phishing email(many free samples online)
 
 nmap is pre installed tool in kali for check run this command
 

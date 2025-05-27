@@ -12,9 +12,10 @@ In this project, you will learn how to analyze phishing emails, Phishing email a
 In Online free tools
 
 
-# Analyze a Phishing Email Sample
-**. Objective:** Identifying phishing characteristics in a suspicious email sample.
-**. Tools:** Email client or saved email file(text),free online header analyzer.
+## Analyze a Phishing Email Sample
+**Objective:** Identifying phishing characteristics in a suspicious email sample.
+
+**Tools:** Email client or saved email file(text),free online header analyzer.
 
 ## 🛠️ **Lab Setup**
 
